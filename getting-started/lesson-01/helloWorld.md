@@ -6,7 +6,8 @@ Welcome to your first Go programming lesson! In this guide, we will walk you thr
 
 Before you begin, ensure you have the following installed on your system:
 - Go (https://golang.org/dl/)
-- A text editor or IDE of your choice (We suggest **VS Code**)
+- A text editor or IDE of your choice
+    * You can get **VS Code** here: (https://code.visualstudio.com/Download)  
 
 ## Steps
 
